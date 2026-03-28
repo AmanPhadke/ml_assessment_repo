@@ -64,10 +64,7 @@ docker run --rm mlops-task
 ```
 
 ## Error Handling:
--Rolling Mean Handling
-
-The first (window-1) rows have NaN rolling mean values since there aren't enough previous values to calculate the average. These rows are treated as signal=0 (no signal).
-
+- Rolling Mean Handling : The first (window-1) rows have NaN rolling mean values since there aren't enough previous values to calculate the average. These rows are treated as signal=0 (no signal).
 - No Columns Errors handled
 - No Config details handled
 - No file detected
