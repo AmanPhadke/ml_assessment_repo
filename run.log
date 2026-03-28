@@ -1,0 +1,16 @@
+[2026-03-28 17:03:40] INFO: Job started
+[2026-03-28 17:03:40] INFO: Config loaded successfully
+[2026-03-28 17:03:40] INFO: Seed: 42, Window: 5, Version: v1
+[2026-03-28 17:03:40] INFO: Data loaded: 10000 rows
+[2026-03-28 17:03:40] INFO: Rolling mean computed
+[2026-03-28 17:03:40] INFO: Signals generated
+[2026-03-28 17:03:40] INFO: Metrics calculated
+[2026-03-28 17:03:40] INFO: Job completed successfully
+[2026-03-28 19:24:49] INFO: Job started
+[2026-03-28 19:24:49] INFO: Config loaded successfully
+[2026-03-28 19:24:49] INFO: Seed: 42, Window: 5, Version: v1
+[2026-03-28 19:24:49] INFO: Data loaded: 10000 rows
+[2026-03-28 19:24:49] INFO: Rolling mean computed
+[2026-03-28 19:24:50] INFO: Signals generated
+[2026-03-28 19:24:50] INFO: Metrics calculated
+[2026-03-28 19:24:50] INFO: Job completed successfully
