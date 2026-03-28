@@ -1,0 +1,42 @@
+[2026-03-28 17:03:40] INFO: Job started
+[2026-03-28 17:03:40] INFO: Config loaded successfully
+[2026-03-28 17:03:40] INFO: Seed: 42, Window: 5, Version: v1
+[2026-03-28 17:03:40] INFO: Data loaded: 10000 rows
+[2026-03-28 17:03:40] INFO: Rolling mean computed
+[2026-03-28 17:03:40] INFO: Signals generated
+[2026-03-28 17:03:40] INFO: Metrics calculated
+[2026-03-28 17:03:40] INFO: Job completed successfully
+[2026-03-28 19:24:49] INFO: Job started
+[2026-03-28 19:24:49] INFO: Config loaded successfully
+[2026-03-28 19:24:49] INFO: Seed: 42, Window: 5, Version: v1
+[2026-03-28 19:24:49] INFO: Data loaded: 10000 rows
+[2026-03-28 19:24:49] INFO: Rolling mean computed
+[2026-03-28 19:24:50] INFO: Signals generated
+[2026-03-28 19:24:50] INFO: Metrics calculated
+[2026-03-28 19:24:50] INFO: Job completed successfully
+[2026-03-28 19:49:54] INFO: Job started
+[2026-03-28 19:49:54] INFO: Config loaded successfully
+[2026-03-28 19:49:54] INFO: Seed: None, Window: 5, Version: v1
+[2026-03-28 19:49:54] INFO: Data loaded: 10000 rows
+[2026-03-28 19:49:54] INFO: Rolling mean computed
+[2026-03-28 19:49:54] INFO: Signals generated
+[2026-03-28 19:49:54] INFO: Metrics calculated
+[2026-03-28 19:49:54] INFO: Job completed successfully
+[2026-03-28 19:53:36] INFO: Job started
+[2026-03-28 19:53:36] INFO: Config loaded successfully
+[2026-03-28 19:53:36] ERROR: Job failed: Config key 'seed' is empty
+[2026-03-28 19:57:17] INFO: Job started
+[2026-03-28 19:57:17] INFO: Config loaded successfully
+[2026-03-28 19:57:17] ERROR: Job failed: Config key 'seed' is empty
+[2026-03-28 19:57:50] INFO: Job started
+[2026-03-28 19:57:50] INFO: Config loaded successfully
+[2026-03-28 19:57:50] INFO: Seed: 42, Window: 5, Version: v1
+[2026-03-28 19:57:50] ERROR: Job failed: Missing column in test.csv: "close"
+[2026-03-28 19:59:07] INFO: Job started
+[2026-03-28 19:59:07] INFO: Config loaded successfully
+[2026-03-28 19:59:07] INFO: Seed: 42, Window: 5, Version: v1
+[2026-03-28 19:59:07] INFO: Data loaded: 10000 rows
+[2026-03-28 19:59:07] INFO: Rolling mean computed
+[2026-03-28 19:59:08] INFO: Signals generated
+[2026-03-28 19:59:08] INFO: Metrics calculated
+[2026-03-28 19:59:08] INFO: Job completed successfully
