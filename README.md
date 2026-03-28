@@ -54,7 +54,7 @@ docker run --rm mlops-task
 ```
 
 ### metrics.json (Error)
-## (Missing column error)
+- (Missing column error)
 ```json
 {
     "version": "v1",
